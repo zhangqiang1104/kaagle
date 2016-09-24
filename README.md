@@ -10,9 +10,11 @@
 ###digitRecognizer_sklearn.py文件，使用sklearn的ML库，实现KNN,svm和bayes算法
 
 部分内容参考：<http://blog.csdn.net/u012162613/article/details/41978235>
+
 使用20000训练数据，28000测试数据
-knn正确率94%，分类时间
-svm正确率94%，分类时间
-bayes_Gaus正确率55%，分类时间
-bayes_Multi正确率83%，分类时间
+
+*knn正确率94%，分类时间
+*svm正确率94%，分类时间
+*bayes_Gaus正确率55%，分类时间
+*bayes_Multi正确率83%，分类时间
 
